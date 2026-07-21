@@ -4,7 +4,7 @@
         "image":"Difficulties/three.png"
     },
     {
-        "text":"Private call one of your friends and start reading the Wikipedia article of 'Pedro Garfias' and leave when you are done (or they leave first).",
+        "text":"Private call one of your friends and start reading the Wikipedia article of 'Pedro Garfias' and leave when you are done (or if they leave first).",
         "image":"Difficulties/three.png"
     },
     {
@@ -14,5 +14,20 @@
         {
         "text":"Join a random public server and say 'Guys, im hard rn'",
         "image":"Difficulties/eight.png"
+    },
+    }
+        {
+        "text":"You have to play the next game you get on an advertisement for 30 minutes. No AFKing, purely playing.'",
+        "image":"Difficulties/five.png"
+    },
+    }
+        {
+        "text":"Keep sending your friend the message 'sending you this message till i fuck up' until you type it wrong.'",
+        "image":"Difficulties/one.png"
+    }
+    }
+        {
+        "text":"Send 'Sorry guys, but you're too black for me' in a random dead GC and then leave.",
+        "image":"Difficulties/seven.png"
     }
 ]
