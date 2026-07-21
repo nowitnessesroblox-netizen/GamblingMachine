@@ -17,10 +17,39 @@ body{
     height:100vh;
 }
 
+body{
+    margin:0;
+    color:white;
+    font-family:Arial,sans-serif;
+
+    background-image:url("Assets/background.jpg");
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
 .card{
+    width:700px;
+    max-width:90%;
+
     text-align:center;
-    max-width:600px;
-    padding:30px;
+
+    padding:35px;
+
+    border-radius:20px;
+
+    background:rgba(255,255,255,.08);
+
+    backdrop-filter:blur(18px);
+
+    border:1px solid rgba(255,255,255,.15);
+
+    box-shadow:0 15px 40px rgba(0,0,0,.45);
 }
 
 img{
@@ -31,9 +60,29 @@ img{
 
 button{
     margin-top:25px;
-    padding:12px 20px;
-    font-size:18px;
+
+    background:#4e7fff;
+    color:white;
+
+    border:none;
+
+    padding:15px 28px;
+
+    border-radius:12px;
+
+    font-size:20px;
+
     cursor:pointer;
+
+    transition:.2s;
+}
+
+button:hover{
+    transform:scale(1.05);
+}
+
+button:active{
+    transform:scale(.96);
 }
 </style>
 
