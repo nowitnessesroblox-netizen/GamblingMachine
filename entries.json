@@ -1,6 +1,18 @@
 [
     {
-        "text":"You win!",
-        "image":"Difficulties/one.png"
+        "text":"Eat a banana, if you don't have a banana, get a banana.",
+        "image":"Difficulties/three.png"
+    },
+    {
+        "text":"Private call one of your friends and start reading the Wikipedia article of 'Pedro Garfias' and leave when you are done (or they leave first).",
+        "image":"Difficulties/three.png"
+    },
+    {
+        "text":"Private call one of your friends and keep saying 'Keep talking im almost finished' whenever they try to speak.",
+        "image":"Difficulties/eight.png"
+    }
+        {
+        "text":"Join a random public server and say 'Guys, im hard rn'",
+        "image":"Difficulties/eight.png"
     }
 ]
