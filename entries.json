@@ -1,0 +1,14 @@
+[
+    {
+        "text":"You win!",
+        "image":"images/win.png"
+    },
+    {
+        "text":"You owe everyone $5.",
+        "image":"images/pizza.png"
+    },
+    {
+        "text":"Nothing happens.",
+        "image":"images/lose.png"
+    }
+]
