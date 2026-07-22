@@ -24,6 +24,14 @@
         "image": "Difficulties/one.png"
     },
     {
+        "text": "card test",
+        "image": "Difficulties/card.png"
+    },
+    {
+        "text": "amplify test",
+        "image": "Difficulties/amplify.png"
+    },
+    {
         "text": "Send 'Sorry guys, but you're too black for me' in a random dead GC and then leave.",
         "image": "Difficulties/seven.png"
     }
