@@ -24,15 +24,31 @@
         "image": "Difficulties/one.png"
     },
     {
-        "text": "card test",
-        "image": "Difficulties/card.png"
+        "text": "Don’t be racist for 1 minute (EXTREMELY DIFFICULT)",
+        "image": "Difficulties/ten.png"
     },
     {
-        "text": "amplify test",
-        "image": "Difficulties/amplify.png"
+        "text": "Degrade your humour to 2020 humour for 1 hour",
+        "image": "Difficulties/five.png"
+    },
+   {
+        "text": "Join a random public discord server VC and act like you're recording a video for 10 minutes.",
+        "image": "Difficulties/three.png"
+    },
+    {
+        "text": "Join a random public discord server and act like you actually believe in flat earth. Continue to argue with people about the topic until they crash out.",
+        "image": "Difficulties/seven.png"
+    },
+    {
+        "text": "Make a GC and state a random date along with random coordinates and rules such as 'We will fight to the death there', and then leave the group chat. It needs to have at least 5 people.",
+        "image": "Difficulties/three.png"
     },
     {
         "text": "Send 'Sorry guys, but you're too black for me' in a random dead GC and then leave.",
+        "image": "Difficulties/seven.png"
+    },
+    {
+        "text": "Try and imitate the mating call of a horny cat in a random public discord server VC.",
         "image": "Difficulties/seven.png"
     }
 ]
